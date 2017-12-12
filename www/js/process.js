@@ -113,7 +113,7 @@ let process = {
   					<a href="#" class="button button-big color-red " onClick={process.menu}>Back</a>
 				</p>
 				<div align='center'>
-						<img src='img/softball.jpg' width='300px' height='100px' />
+						<img src='img/softball.JPG' width='300px' height='100px' />
 						<h1>SOFTBALL</h1>
 						<div>is a variant of baseball played with a larger ball on a smaller field. It was invented in 1887 in Chicago, Illinois, United States as an indoor game. It was at various times called indoor baseball, mush ball, playground, softball, kitten ball, and because it was also played by women, ladies' baseball. The name softball was given to the game in 1926, because the ball used to be soft.</div>
 						<div>A tournament held in 1933 at the Chicago World's Fair spurred interest in the game. The Amateur Softball Association (ASA) of America (founded 1933) governs the game in the United States and sponsors annual sectional and World Series championships. The World Baseball Softball Confederation (WBSC) regulates rules of play in more than 110 countries, including the United States and Canada; before the WBSC was formed in 2013, the International Softball Federation filled this role. Women's fast pitch softball became a Summer Olympic sport in 1996, but it and baseball were dropped from the 2012 Games; they will be reinstated for the 2020 Games.</div>
@@ -210,7 +210,7 @@ A number of consistent techniques have evolved in volleyball, including spiking 
   					<a href="#" class="button button-big color-red " onClick={process.menu}>Back</a>
 				</p>
 				<div align='center'>
-						<img src='img/bowling.jpg' width='300px' height='100px' />
+						<img src='img/bowling.JPG' width='300px' height='100px' />
 						<h1>BOWLING</h1>
 						<div>is a sport or leisure activity in which a player rolls or throws a bowling ball towards a target. It is one of the major forms of throwing sports. In pin bowling variations, the target is usually to knock over pins at the end of a lane. When all the pins are knocked down on the first roll, this is a strike. If you get 12 strikes in a row you can score a 300. This is the maximum score for the sport. In target variations, the aim is usually to get the ball as close to a mark as possible. The pin version of bowling is often played on a flat wooden or other synthetic surface (which can be oiled in different patterns for different techniques),[1] while in target bowling, the surface may be grass, gravel or a synthetic surface.[2] The most common types of pin bowling include ten-pin, nine-pin, candlepin, duckpin and five-pin bowling, while in target bowling, bowls, skittles, kegel, bocce, carpet bowls, pétanque, and boules, both indoor and outdoor varieties are popular. Today the sport of bowling is played by 100 million people in more than 90 countries worldwide (including 70 million in the United States),[3] and continues to grow through entertainment media such as video games for home consoles and handheld devices.</div>
 					</div>
