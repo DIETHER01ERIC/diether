@@ -9,7 +9,7 @@ let process = {
 		let content = <div>
 		<div align='center'>
 						<h1> BALL GAMES </h1>
-						<img src='img/th.jpg' width='100px' height='100px' />
+						<img src='img/th.jpg' width='300px' height='200px' />
 					</div>
 			<audio id="audio_bomb">
 				<source src="audio/bomb.mp3" type="audio/mp3" />
