@@ -1,3 +1,7 @@
+body{
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), blue, rgba(247, 93, 89, 1.2));
+	
+}
 
 button{
 	color:blue;
@@ -27,4 +31,9 @@ ul li{
 
 #audio{
 	display: none;
+}
+
+body{
+	background-image: linear-gradient(to right, rgba(247, 93, 89, 1.2), blue, rgba(247, 93, 89, 1.2));
+	
 }
